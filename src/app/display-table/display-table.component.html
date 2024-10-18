@@ -1,0 +1,16 @@
+<div>
+    <table border>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Duplicate Count</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let item of displayData" [ngClass]="getRowClass(item.duplicate)">
+                <td>{{item.name}}</td>
+                <td>{{item.duplicate}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

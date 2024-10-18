@@ -1,0 +1,44 @@
+{
+    "jsonData": [
+        {
+            "name": "Sumith",
+            "duplicate": 1
+        },
+        {
+            "name": "Rahul",
+            "duplicate": 3
+        },
+        {
+            "name": "Sriker",
+            "duplicate": 6
+        },
+        {
+            "name": "Akhil",
+            "duplicate": 12
+        },
+        {
+            "name": "Sumith",
+            "duplicate": 15
+        },
+        {
+            "name": "Rahul",
+            "duplicate": 17
+        },
+        {
+            "name": "Sriker",
+            "duplicate": 2
+        },
+        {
+            "name": "Akhil",
+            "duplicate": 9
+        },
+        {
+            "name": "Aakarsh",
+            "duplicate": 8
+        },
+        {
+            "name": "Madhu",
+            "duplicate": 20
+        }
+    ]
+}

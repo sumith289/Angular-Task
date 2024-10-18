@@ -1,0 +1,19 @@
+.yellowRow {
+    background-color: yellow;
+}
+
+.greenRow {
+    background-color: green;
+}
+
+.redRow {
+    background-color: red;
+}
+
+table{
+    width: 400px;
+}
+
+th,td{
+    padding: 10px;
+}
